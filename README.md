@@ -22,9 +22,16 @@ Right now, I am 'decorating' my portfolio with awesome projects. (I think they a
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45px"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45px"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="45px"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="45px"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="45px"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" width="45px"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="45px"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45px"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="45px"><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="45px"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="45px"><img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" width="45px"><img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="45px"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="45px"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="45px"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="45px"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="45px"><img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" width="45px"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="45px">
 
 
-## 🏃‍♂️ My actions
+## 🏃‍♂️ My stats
+[![Nodirbek-py's GitHub stats](https://github-readme-stats.vercel.app/api?username=nodirbek-py&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### My latest commits
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nodirbek-py&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🤙 How to reach me
+
+📫 nodvos@gmail.com
+🔗 [Linkedin](https://linkedin.com/in/nodirbekvositov)
+🐦 [Twitter](https://twitter.com/NVositov)
 
 <!-- GITHUB-COMMITS-LIST:START  -->
 
