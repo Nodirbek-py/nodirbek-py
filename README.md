@@ -6,7 +6,7 @@
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7UJYaFjlFf919Z5sJt7KgA?logoColor=black&style=social)
 ![Twitter URL](https://img.shields.io/twitter/url?logoColor=black&style=social&url=https%3A%2F%2Ftwitter.com%2FNVositov)
 
-## About me
+## ℹ️ About me
 
 A sociable, funny, book-lover, ameture photographer, 3rd year CS student, fullstack dev, still learning new things.
 
