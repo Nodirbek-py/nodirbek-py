@@ -10,7 +10,10 @@
 
 A sociable, funny, book-lover, ameture photographer, 3rd year CS student, fullstack dev, still learning new things.
 
-A Self-taught programmer since 2016, my real exprience started in late 2019, in 2020 I started my first dev-job as a frontend developer and mentor
+A Self-taught programmer since 2016, my real exprience started in late 2019. 
+
+  In 2020 I started my first dev-job at Digital City as a frontend developer and mentor
+  In 2021 November, I got applied for a new company called Hygge Software as a fulltime Frontend developer.
 
 Right now, I am 'decorating' my portfolio with awesome projects. (I think they are awesome 😅)
 
