@@ -1,4 +1,4 @@
-# <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px"> Hi there, I am Nodirbek Vositov, Fullstack Webdev 🚀 
+# 👋🏻 Hi there, I am Nodirbek Vositov, Fullstack Webdev 🚀 
 
 
 -------
